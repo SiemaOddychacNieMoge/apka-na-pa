@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="telefon.MainPage">
+
+    <StackLayout>
+        <Picker Title="Wybierz stację" x:Name="stacja" TitleColor="Gray" SelectedIndexChanged="stacja_SelectedIndexChanged">
+        </Picker>
+        <Label x:Name="nazwaLbl" Text=" " />
+        <Label x:Name="tempLbl" Text="Temperatura: *C"/>
+        <Label x:Name="opisLbl" Text="Opis: "/>
+        <Label x:Name="cisnLbl" Text="Ciśnienie: hPa" />
+        <Label x:Name="wiatrLbl" Text="Wiatr: m/s" />
+    </StackLayout>
+
+</ContentPage>

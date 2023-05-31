@@ -1,0 +1,15 @@
+E:\Igor\Programming\Other\apka-na-pa\telefon\telefon\telefon\bin\Debug\netstandard2.0\telefon.deps.json
+E:\Igor\Programming\Other\apka-na-pa\telefon\telefon\telefon\bin\Debug\netstandard2.0\telefon.dll
+E:\Igor\Programming\Other\apka-na-pa\telefon\telefon\telefon\bin\Debug\netstandard2.0\telefon.pdb
+E:\Igor\Programming\Other\apka-na-pa\telefon\telefon\telefon\obj\Debug\netstandard2.0\telefon.csproj.AssemblyReference.cache
+E:\Igor\Programming\Other\apka-na-pa\telefon\telefon\telefon\obj\Debug\netstandard2.0\telefon.GeneratedMSBuildEditorConfig.editorconfig
+E:\Igor\Programming\Other\apka-na-pa\telefon\telefon\telefon\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Igor\Programming\Other\apka-na-pa\telefon\telefon\telefon\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Igor\Programming\Other\apka-na-pa\telefon\telefon\telefon\obj\Debug\netstandard2.0\telefon.AssemblyInfoInputs.cache
+E:\Igor\Programming\Other\apka-na-pa\telefon\telefon\telefon\obj\Debug\netstandard2.0\telefon.AssemblyInfo.cs
+E:\Igor\Programming\Other\apka-na-pa\telefon\telefon\telefon\obj\Debug\netstandard2.0\telefon.csproj.CoreCompileInputs.cache
+E:\Igor\Programming\Other\apka-na-pa\telefon\telefon\telefon\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Igor\Programming\Other\apka-na-pa\telefon\telefon\telefon\obj\Debug\netstandard2.0\telefon.dll
+E:\Igor\Programming\Other\apka-na-pa\telefon\telefon\telefon\obj\Debug\netstandard2.0\refint\telefon.dll
+E:\Igor\Programming\Other\apka-na-pa\telefon\telefon\telefon\obj\Debug\netstandard2.0\telefon.pdb
+E:\Igor\Programming\Other\apka-na-pa\telefon\telefon\telefon\obj\Debug\netstandard2.0\ref\telefon.dll

@@ -1,0 +1,30 @@
+﻿<Window x:Class="komputer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:komputer"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="400">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <StackPanel Margin="10,0,0,0" HorizontalAlignment="Left" VerticalAlignment="Center" Grid.Row="0" Orientation="Horizontal">
+            <Label>Wybierz stację: </Label>
+            <ComboBox x:Name="stacja" HorizontalAlignment="Left" VerticalAlignment="Center" Text="Wybierz stacje" Width="123" Margin="10,0,0,0" SelectionChanged="stacja_SelectionChanged"></ComboBox>
+        </StackPanel>
+        <StackPanel Grid.Row="1" Orientation="Vertical">
+            <Label Margin="10,0,0,0" x:Name="nazwaLbl">Nazwa:</Label>
+            <Label Margin="10,0,0,0" x:Name="tempLbl">Temperatura: *C</Label>
+            <Label Margin="10,0,0,0" x:Name="opisLbl">Opis:</Label>
+            <Label Margin="10,0,0,0" x:Name="cisnLbl">Ciśnienie: hPa</Label>
+            <Label Margin="10,0,0,0" x:Name="wiatrLbl">Wiatr: m/s</Label>
+        </StackPanel>
+    </Grid>
+</Window>
